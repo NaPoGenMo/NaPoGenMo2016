@@ -1,5 +1,5 @@
-# NaPoGenMo2015
-National Poetry Generation Month 2015 - based on an idea @hugovk [tweeted](https://twitter.com/hugovk/status/582991364889059330) on a whim. This is the 2015 edition
+# NaPoGenMo2016
+National Poetry Generation Month 2016 - based on an idea @hugovk [tweeted](https://twitter.com/hugovk/status/582991364889059330) on a whim. This is the 2016 edition. You can check out the [2015](https://github.com/NaPoGenMo/NaPoGenMo2015) edition if you like.
 
 #The Goal
 
@@ -29,10 +29,9 @@ Also feel free to comment on other participants' issues.
 
 #Resources
 
-There's an [open issue](https://github.com/NaPoGenMo/NaPoGenMo2014/issues/1) where you can add resources (libraries, corpuses, APIs, techniques, etc).
+There's an [open issue](https://github.com/NaPoGenMo/NaPoGenMo2016/issues/1) where you can add resources (libraries, corpuses, APIs, techniques, etc).
 
-There are already a ton of resources on the old resources thread for NaNoGenMos 2014 and 2013.
-
+There are already a ton of resources on the old resources thread for the [2015 edition](https://github.com/NaPoGenMo/NaPoGenMo2015/issues/1).
 
 #That's It
 
