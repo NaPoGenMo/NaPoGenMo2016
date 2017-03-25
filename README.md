@@ -1,13 +1,13 @@
 # NaPoGenMo2016
 National Poetry Generation Month 2016 - based on an idea @hugovk [tweeted](https://twitter.com/hugovk/status/582991364889059330) on a whim. This is the 2016 edition. You can check out the [2015](https://github.com/NaPoGenMo/NaPoGenMo2015) edition if you like.
 
-#The Goal
+## The Goal
 
 Spend the month of April writing code that generates a poem.
 Repeat.
 
 
-# The Rules
+## The Rules
 
 The only rule is that you share at least one poem  and also your source code at the end.
 
@@ -20,19 +20,19 @@ Please try to respect copyright. I'm not going to police it, as ultimately it's 
 This activity starts at 12:01am GMT on Apr 1st and ends at 12:01am GMT May 1st.
 
 
-#How to Participate
+## How to Participate
 
 [Open an issue](../../issues/new) on this repo and declare your intent to participate. You may continually update the issue as you work over the course of the month. Feel free to post dev diaries, sample output, etc.
 
 Also feel free to comment on other participants' issues.
 
 
-#Resources
+## Resources
 
 There's an [open issue](../../issues/1) where you can add resources (libraries, corpuses, APIs, techniques, etc).
 
 There are already a ton of resources on the old resources thread for the [2015 edition](https://github.com/NaPoGenMo/NaPoGenMo2015/issues/1).
 
-#That's It
+## That's It
 
 So yeah. Have fun with this!
